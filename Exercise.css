@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(161, 161, 161);
+    text-align: center;
+}
+
+h4{
+    color: rgb(198, 197, 197);
+    font-weight: 100; 
+    text-align: center;
+}
+
+iframe{
+    margin-left: auto;   /* Automatic margin from left */ 
+    margin-right: auto; /* Automatic margin from right */ 
+    display: block;
+}
+
+li{
+    color: rgb(198, 197, 197);
+    /* justify-content: center; */
+    font-size: 18px;
+}
+
